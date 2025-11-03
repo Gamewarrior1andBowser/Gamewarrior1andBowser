@@ -8,5 +8,5 @@ My name is Rone Kohut, but I'm decently known on the internet as either RoninThe
 - 🤔 I’m looking for help with making new friends, because sometimes being a independent person can make you feel lonely.
 - 💬 Ask me about any of my projects, I'm always passionate to share my work with others!
 - 📫 How to reach me: I can be contacted over discord "@RoninTheDev" or by email "Gamewarrior1andbowser@gmail.com"
-- 😄 Pronouns: He/Him, Although I support LGBTQ and their variety or pronouns... I'm cool with the ones I was born with.
+- 😄 Pronouns: He/Him, Although I support LGBTQ+ and their variety or pronouns... I'm cool with the ones I was born with.
 - ⚡ Fun fact: My dream job is to one day work as a game developer at Nintendo.
