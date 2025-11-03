@@ -10,3 +10,7 @@ My name is Rone Kohut, but I'm decently known on the internet as either RoninThe
 - 📫 How to reach me: I can be contacted over discord "@RoninTheDev" or by email "Gamewarrior1andbowser@gmail.com"
 - 😄 Pronouns: He/Him, Although I support LGBTQ+ and their variety of pronouns... I'm cool with the ones I was born with.
 - ⚡ Fun fact: My dream job is to one day work as a game developer at Nintendo.
+
+## My projects
+1. __Kirby and the Siege of Popstar:__ a Kirby fangame that I'm making, although I've gotten a bit of help here and there with it... I've done all the coding for it myself using RPG in a Box's unique coding language: Bauxite. The fangame is currently an open Beta that's avalible for play on Windows, Mac and Linux. Download link: "https://drive.google.com/drive/folders/1Q7NbIqxVtw2E9KZa_NJjfhEJW8NaQ6cS"
+2. __The Avalon Saga:__ a collection of Novels that I'm writing, it's a fantasy series about a heroic demon named Ronin who seeks redemption as he and his friends protect the multiverse from greater evils. I currently haven't finished any books, but I have a snippet that I can share of one novel... Revenge and Redemption. Beta link: "https://docs.google.com/document/d/1wmmTuGRNrXuHMEZxxL5Fx6VAlfA25mNQyjr-1_30VEc/edit?usp=sharing"
