@@ -13,8 +13,8 @@ My name is Rone Kohut, but I'm decently known on the internet as either RoninThe
 
 ## My projects
 1. __Kirby and the Siege of Popstar:__ a Kirby fangame that I'm making, although I've gotten a bit of help here and there with it... I've done most of the model design and all the coding for it myself using RPG in a Box's unique coding language: Bauxite. The fangame is currently an open Beta that's avalible for play on Windows, Mac and Linux. Download link: "https://drive.google.com/drive/folders/1Q7NbIqxVtw2E9KZa_NJjfhEJW8NaQ6cS"
-\n(This is a screenshot containing a hnadfull of my custom made, N64 style Kirby charater models!)
+(This is a screenshot containing a hnadfull of my custom made, N64 style Kirby charater models!)
 ![sddefault](https://github.com/user-attachments/assets/9eb4d3fa-9cf2-4be1-9672-b52f065f83bc)
 3. __The Avalon Saga:__ a collection of Novels that I'm writing, it's a fantasy series about a heroic demon named Ronin who seeks redemption as he and his friends protect the multiverse from greater evils. I currently haven't finished any books, but I have a snippet that I can share of one novel... Revenge and Redemption. Beta link: "https://docs.google.com/document/d/1wmmTuGRNrXuHMEZxxL5Fx6VAlfA25mNQyjr-1_30VEc/edit?usp=sharing"
-\n(Here's the cover for Trial by Fire, but I don't have a snippet preped for it yet. 😅)
+(Here's the cover for Trial by Fire, but I don't have a snippet preped for it yet. 😅)
 ![2025-10-14 007](https://github.com/user-attachments/assets/c0b19663-5f54-4746-aa13-b02a1e53488d)
