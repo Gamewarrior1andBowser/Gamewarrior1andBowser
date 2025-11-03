@@ -16,5 +16,5 @@ My name is Rone Kohut, but I'm decently known on the internet as either RoninThe
 (This is a screenshot containing a handfull of my custom made, N64 style Kirby charater models!)
 ![sddefault](https://github.com/user-attachments/assets/9eb4d3fa-9cf2-4be1-9672-b52f065f83bc)
 3. __The Avalon Saga:__ a collection of Novels that I'm writing, it's a fantasy series about a heroic demon named Ronin who seeks redemption as he and his friends protect the multiverse from greater evils. I currently haven't finished any books, but I have a snippet that I can share of one novel... Revenge and Redemption. Beta link: "https://docs.google.com/document/d/1wmmTuGRNrXuHMEZxxL5Fx6VAlfA25mNQyjr-1_30VEc/edit?usp=sharing"
-(Here's the cover for Trial by Fire, but I don't have a snippet prepped for it yet. 😅)
+(Here's the finished cover for Trial by Fire, but I don't have a snippet prepped for it yet. 😅)
 ![2025-10-14 007](https://github.com/user-attachments/assets/c0b19663-5f54-4746-aa13-b02a1e53488d)
