@@ -1,3 +1,4 @@
+![2025-10-14 002](https://github.com/user-attachments/assets/adc7f46b-669b-4c74-b28e-57fad0766b29)
 ## Hi there 👋
 My name is Rone Kohut, but I'm decently known on the internet as either RoninThedev (Newer username) or Gamewarrior1andBowser (Old username). I'm a nerd with a knack for storytelling and fidgeting with stuff... whether it be fixing computers, making video games, writing my own novel series or helping others out. I always like to be handy with some sort of project.
 
