@@ -9,7 +9,7 @@ My name is Rone Kohut, but I'm decently known on the internet as either RoninThe
 - 💬 Ask me about any of my projects, I'm always passionate to share my work with others!
 - 📫 How to reach me: I can be contacted over discord "@RoninTheDev" or by email "Gamewarrior1andbowser@gmail.com"
 - 😄 Pronouns: He/Him, Although I support LGBTQ+ and their variety of pronouns... I'm cool with the ones I was born with.
-- ⚡ Fun fact: My dream job is to one day work as a game developer at Nintendo.
+- ⚡ Fun fact: My dream is either to work as a game developer at Nintendo, or to collaborate on a game with Toby Fox.
 
 ## My projects
 1. __Kirby and the Siege of Popstar:__ a Kirby fangame that I'm making, although I've gotten a bit of help here and there with it... I've done most of the model design and all the coding for it myself using RPG in a Box's unique coding language: Bauxite. The fangame is currently an open Beta that's avalible for play on Windows, Mac and Linux. Download link: "https://drive.google.com/drive/folders/1Q7NbIqxVtw2E9KZa_NJjfhEJW8NaQ6cS"
