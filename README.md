@@ -4,7 +4,7 @@ My name is Rone Kohut, but I'm decently known on the internet as either RoninThe
 
 ## Some quick tibits about me...
 - 🔭 I’m currently working on my own fangame that I made from scratch, called Kirby and the Siege of Popstar. Playlist link: "https://www.youtube.com/playlist?list=PLmO1_YdJXuxMp6fRI-ucEhK9BWcDL_9pg"
-- 🌱 I’m currently learning HTML, CSS and Javascript at MITT's software developer course.
+- 🌱 I’m currently learning HTML, CSS, C#, ASP.Net and Javascript at MITT's software developer course.
 - 🤝 I’m looking to collaborate on publishing the Avalon saga, a collection of stories that i've created that I'm hoping to make games and novels about.
 - 🤔 I’m looking for help with making new friends, because sometimes being a independent person can make you feel lonely.
 - 💬 Ask me about any of my projects, I'm always passionate to share my work with others!
